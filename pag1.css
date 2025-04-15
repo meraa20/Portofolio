@@ -214,6 +214,10 @@ section {
   .card_projects {
     width: 80%;
   }
+  #photo1{
+    width: 200px;
+    height: 300px;
+  }
   
 }
 @media (max-width: 641px){
